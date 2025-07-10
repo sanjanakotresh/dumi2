@@ -1,2 +1,2 @@
-# dumi2
-simple dumi repo for interns
+# resume
+my personal portfolio resume
